@@ -1,1 +1,1 @@
-# DuAn.MarkManagement.github
+Dự án " Mark Management " ( Quản Lý Điểm ) - 1 phần mềm cho phép Giảng viên nhập vào dữ liệu thông tin cũng như điểm số của sinh viên. Bên cạnh đó, cũng cho phép Sinh viên tự tra cứu thông tin của mình theo MSSV khi đăng nhập bằng tài khoản sinh viên đã cung cấp sẵn.
